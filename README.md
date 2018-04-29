@@ -1,4 +1,4 @@
-# iOS FootballPitch reserve.kz application
+# iOS FootballPitch reserve.kz application ![Alt text](img/logo.png)
 ![Alt text](img/logo.png)
 <p align="center">
   <img src="img/logo.png" width="250"/>
