@@ -2,8 +2,8 @@
 <p align="left">
 <img src="img/logo.png" width="100"/>
 </p>
-iOS-development(Swift)
-<h2>Football Pitches search view:</h2>
+This App was created for reserve football pitches which are located in Almaty region. So, I just wanna show how it looks by images.
+<h3>1 Football Pitches search view</h3>
 <p align="left">
   <img src="img/1_table_view.png" width="250"/>
 </p>
