@@ -1,0 +1,6 @@
+framework module Pods_reserve_kz {
+  umbrella header "Pods-reserve.kz-umbrella.h"
+
+  export *
+  module * { export * }
+}
