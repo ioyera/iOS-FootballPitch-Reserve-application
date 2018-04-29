@@ -7,6 +7,7 @@ This App was created for reserve football pitches which are located in Almaty re
 <p align="left">
   <img src="img/1_table_view.png" width="250"/>
 </p>
+<h2>
 
 <h2>2</h2><h3>Football Pitches view</h3>
 <p align="left">
